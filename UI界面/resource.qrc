@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="image">
+    <file>自动驾驶.jpeg</file>
+    <file>AI.jpg</file>
+  </qresource>
+</RCC>
