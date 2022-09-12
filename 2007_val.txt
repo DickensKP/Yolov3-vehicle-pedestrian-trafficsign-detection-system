@@ -1,0 +1,79 @@
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road103.jpg 89,25,297,272,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road111.jpg 35,92,101,159,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road122.jpg 20,24,209,237,1
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road140.jpg 110,81,150,121,1
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road154.jpg 357,82,378,100,1 84,107,94,119,1
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road170.jpg 170,183,203,214,1 87,168,114,217,2 207,168,225,221,2 142,232,149,239,1
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road18.jpg 90,39,217,280,2
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road191.jpg 178,169,209,205,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road198.jpg 74,240,108,276,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road205.jpg 149,178,259,287,1
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road235.jpg 136,227,151,241,0 120,227,134,242,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road236.jpg 143,152,151,162,0 155,153,164,163,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road239.jpg 176,229,185,238,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road243.jpg 138,239,150,250,0 152,239,163,250,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road245.jpg 137,196,158,218,0 161,197,182,217,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road247.jpg 139,218,156,236,0 141,245,158,261,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road252.jpg 165,203,180,218,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road267.jpg 99,119,136,157,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road269.jpg 136,111,218,192,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road278.jpg 109,161,149,202,3 200,252,249,322,2 230,247,258,285,1 217,347,234,366,1
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road279.jpg 128,106,244,221,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road297.jpg 221,176,252,211,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road3.jpg 178,134,236,261,2
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road310.jpg 157,171,204,224,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road313.jpg 126,132,199,206,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road32.jpg 48,33,194,356,2
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road323.jpg 136,204,220,288,0 131,128,208,204,3
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road324.jpg 145,206,214,274,1
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road325.jpg 99,165,151,218,0 40,248,70,294,2
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road330.jpg 86,108,129,152,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road339.jpg 92,46,206,163,3
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road352.jpg 100,130,148,177,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road367.jpg 111,151,149,189,0 36,267,48,289,1
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road368.jpg 76,166,128,217,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road389.jpg 178,100,221,143,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road402.jpg 109,247,144,281,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road403.jpg 107,164,171,230,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road404.jpg 48,220,134,319,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road415.jpg 153,203,217,268,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road416.jpg 67,98,148,180,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road419.jpg 41,176,91,227,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road421.jpg 116,160,195,239,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road440.jpg 63,221,122,280,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road463.jpg 100,70,182,155,0 161,279,251,367,1 96,265,150,400,2
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road465.jpg 126,259,192,326,1 81,249,119,354,2 85,108,146,167,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road477.jpg 79,147,147,214,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road498.jpg 86,130,118,171,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road506.jpg 57,234,129,305,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road542.jpg 100,285,144,324,0 60,343,69,356,1
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road582.jpg 185,228,201,270,2 97,124,114,168,2 201,245,224,269,1
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road593.jpg 74,66,151,142,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road603.jpg 90,147,127,185,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road614.jpg 251,82,299,143,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road617.jpg 127,170,152,195,0 15,203,26,214,1
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road636.jpg 52,29,119,94,3
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road637.jpg 122,88,211,175,3
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road644.jpg 147,157,213,222,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road655.jpg 78,214,98,234,0 179,198,206,223,0 114,189,138,212,1
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road677.jpg 123,200,153,232,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road679.jpg 135,178,176,222,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road684.jpg 92,231,159,297,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road688.jpg 125,212,158,245,0 125,161,158,193,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road697.jpg 103,166,134,198,0 102,216,132,247,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road711.jpg 80,151,116,185,0 78,207,115,242,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road72.jpg 267,169,400,272,3
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road724.jpg 88,160,143,216,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road736.jpg 113,156,134,178,0 112,193,133,214,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road759.jpg 119,165,166,212,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road808.jpg 115,199,135,219,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road819.jpg 100,155,125,180,3 103,192,119,232,2 97,206,104,231,2 91,168,101,190,2 71,218,81,239,2 62,223,71,238,2
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road825.jpg 5,335,24,363,2 146,169,183,264,2 117,209,141,272,2 127,104,175,155,3 178,178,214,232,1 90,340,100,354,1
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road837.jpg 185,37,270,121,0
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road84.jpg 98,85,171,152,3
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road840.jpg 120,99,156,134,0 144,232,181,270,1
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road845.jpg 157,190,179,212,0 267,235,292,261,1 252,238,269,284,2
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road847.jpg 103,159,133,187,0 271,217,295,284,2
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road865.jpg 156,85,191,120,0 39,235,47,243,1
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road876.jpg 83,297,97,314,3
+C:\Users\DickensKP\Desktop\yolo3-pytorch\VOCdevkit/VOC2007/JPEGImages/road99.jpg 41,35,222,214,3
