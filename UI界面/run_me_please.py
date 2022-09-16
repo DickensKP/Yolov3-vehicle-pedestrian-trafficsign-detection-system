@@ -20,11 +20,11 @@ matplotlib.use("Qt5Agg")
 from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas
 from matplotlib.figure import Figure
 
-from yolo import YOLO
+# from yolo import YOLO
 import autofile
 import yuyin
 
-yolo = YOLO()
+# yolo = YOLO()
 class denglujiemian(QMainWindow,denglu):
     def __init__(self):
         super(denglujiemian,self).__init__()
@@ -117,7 +117,7 @@ class biaozhijiemian(QMainWindow,fubiaozhi):
         self.cap = cv2.VideoCapture(0)
         self.timer_camera = QTimer()
 
-        self.pushButton2_7.clicked.connect(self.slotStart)
+        # self.pushButton2_7.clicked.connect(self.slotStart)
         self.pushButton2_7.clicked.connect(yuyin.shishi)
         self.pushButton2_11.clicked.connect(self.slotStop)
 
@@ -184,54 +184,54 @@ class biaozhijiemian(QMainWindow,fubiaozhi):
         else:
             Warming = QMessageBox.warning(self, "警告", "请先打开摄像头",
                                           QMessageBox.Yes)
-    def slotStart(self):
-        fps = 0.0
-        t1 = time.time()
-        while True:
-            ret, im = self.capture.read()
-            if im is None:
-                break
-            frame = cv2.cvtColor(im, cv2.COLOR_BGR2RGB)
-            frame = Image.fromarray(np.uint8(frame))
-            frame = np.array(yolo.detect_image(frame))
-            frame = cv2.cvtColor(frame, cv2.COLOR_RGB2BGR)
-            pic = QtGui.QImage(frame.data, frame.shape[1], frame.shape[0],
-                               QtGui.QImage.Format_BGR888)
-            with open('all.txt','r',encoding='utf-8') as fo:
-                all = fo.read()
-            fps = (fps + (1. / (time.time() - t1))) / 2
-            frame = cv2.putText(frame, f'Total_box={all}', (0, 40), cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 255, 0), 2)
-            self.label_2.setPixmap(QtGui.QPixmap.fromImage(pic))
-            self.label_2.setScaledContents(True)
-            cv2.waitKey(1)
-
-            self.dr = Figure_Canvas()
-            graphicscene = QtWidgets.QGraphicsScene()
-            graphicscene.addWidget(self.dr)
-            self.dr.ax.set_xlim(1)
-            self.dr.ax.set_ylim(0, 0.5)
-            self.bar = self.dr.ax.bar(np.array(1), np.array(fps), width=0.4)
-            self.dr.ax.set_title('FPS')
-            self.patches = self.bar.patches
-            self.graphicsView_2.setScene(graphicscene)
-            self.graphicsView_2.show()
-
-            self.dr1 = Figure_Canvas1()
-            graphicscene1 = QtWidgets.QGraphicsScene()
-            graphicscene1.addWidget(self.dr1)
-            self.dr1.ax1.set_ylim(0, 4)
-            with open('num.txt', 'r', encoding='utf-8') as fo:
-                num = fo.read()
-            a = num.replace('[', '').replace(']', '').replace('.', '').split()
-            num = list(map(int, a))
-            labels = ['speedlimit', 'crosswalk', 'trafficlight', 'stop']
-            self.bar = self.dr1.ax1.bar(labels, np.array(num), width=0.5)
-            self.dr1.ax1.set_title('classes_num')
-            self.patches = self.bar.patches
-            self.graphicsView.setScene(graphicscene1)
-            self.graphicsView.show()
-        self.capture.release()
-        cv2.destroyAllWindows()
+    # def slotStart(self):
+    #     fps = 0.0
+    #     t1 = time.time()
+    #     while True:
+    #         ret, im = self.capture.read()
+    #         if im is None:
+    #             break
+    #         frame = cv2.cvtColor(im, cv2.COLOR_BGR2RGB)
+    #         frame = Image.fromarray(np.uint8(frame))
+    #         frame = np.array(yolo.detect_image(frame))
+    #         frame = cv2.cvtColor(frame, cv2.COLOR_RGB2BGR)
+    #         pic = QtGui.QImage(frame.data, frame.shape[1], frame.shape[0],
+    #                            QtGui.QImage.Format_BGR888)
+    #         with open('all.txt','r',encoding='utf-8') as fo:
+    #             all = fo.read()
+    #         fps = (fps + (1. / (time.time() - t1))) / 2
+    #         frame = cv2.putText(frame, f'Total_box={all}', (0, 40), cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 255, 0), 2)
+    #         self.label_2.setPixmap(QtGui.QPixmap.fromImage(pic))
+    #         self.label_2.setScaledContents(True)
+    #         cv2.waitKey(1)
+    #
+    #         self.dr = Figure_Canvas()
+    #         graphicscene = QtWidgets.QGraphicsScene()
+    #         graphicscene.addWidget(self.dr)
+    #         self.dr.ax.set_xlim(1)
+    #         self.dr.ax.set_ylim(0, 0.5)
+    #         self.bar = self.dr.ax.bar(np.array(1), np.array(fps), width=0.4)
+    #         self.dr.ax.set_title('FPS')
+    #         self.patches = self.bar.patches
+    #         self.graphicsView_2.setScene(graphicscene)
+    #         self.graphicsView_2.show()
+    #
+    #         self.dr1 = Figure_Canvas1()
+    #         graphicscene1 = QtWidgets.QGraphicsScene()
+    #         graphicscene1.addWidget(self.dr1)
+    #         self.dr1.ax1.set_ylim(0, 4)
+    #         with open('num.txt', 'r', encoding='utf-8') as fo:
+    #             num = fo.read()
+    #         a = num.replace('[', '').replace(']', '').replace('.', '').split()
+    #         num = list(map(int, a))
+    #         labels = ['speedlimit', 'crosswalk', 'trafficlight', 'stop']
+    #         self.bar = self.dr1.ax1.bar(labels, np.array(num), width=0.5)
+    #         self.dr1.ax1.set_title('classes_num')
+    #         self.patches = self.bar.patches
+    #         self.graphicsView.setScene(graphicscene1)
+    #         self.graphicsView.show()
+    #     self.capture.release()
+    #     cv2.destroyAllWindows()
     def open(self):
         self.show()
 

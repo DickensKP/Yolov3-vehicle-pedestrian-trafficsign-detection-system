@@ -15,7 +15,7 @@ from utils.utils_bbox import DecodeBox
 
 class YOLO(object):
     _defaults = {
-        "model_path"        : r'C:\Users\DickensKP\Desktop\25组\logs\ep130-loss0.032-val_loss0.032.pth',
+        # "model_path"        : r'C:\Users\DickensKP\Desktop\25组\logs\ep130-loss0.032-val_loss0.032.pth',
         "classes_path"      : r'C:\Users\DickensKP\Desktop\25组\model_data\voc_classes.txt',
         "anchors_path"      : r'C:\Users\DickensKP\Desktop\25组\model_data\yolo_anchors.txt',
         "anchors_mask"      : [[6, 7, 8], [3, 4, 5], [0, 1, 2]],
